@@ -1,7 +1,4 @@
-### Olá Mundo!! 👋
-
-# JaquelineSilva
-😊 Olá mundo! Eu sou a Jaqueline Silva 
+### Olá Mundo!! 👋 Aqui é a JaquelineSilva 
 📚 Sou estudante de Análise de Desenvolvimento de Sistemas
 💻 Contate-me no email tavaresjaqueline400@gmail.com
 
